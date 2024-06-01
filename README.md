@@ -3,6 +3,8 @@ Project course "The complete guide to building a full-stack app woth Next.js" wi
 
 [The complete guide to building a full-stack app woth Next.js](https://www.udemy.com/course/the-complete-guide-to-building-a-full-stack-app-with-nextjs/)
 
+This app is using tailwindCSS and NextUI which is a UI library for React to get nicely looking component designs
+
 ### 1. NextJs set up start project + Navbar
 * Next.js components are by default server-side
 * Needs to explicitly tell next.js to use client when we need client-side functionality
